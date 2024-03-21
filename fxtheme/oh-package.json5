@@ -10,7 +10,8 @@
   ],
   "main": "Index.ets",
   "author": "Felix",
-  "homepage": "https://github.com/Feng3364",
+  "repository": "https://github.com/Feng3364/FXTheme.git",
+  "homepage": "https://github.com/Feng3364/FXTheme",
   "license": "Apache-2.0",
   "dependencies": {}
 }
