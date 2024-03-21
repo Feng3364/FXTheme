@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "primary_red",
+      "value": "#EE4000"
+    },
+    {
+      "name": "primary_orange",
+      "value": "#FF8C00"
+    },
+    {
+      "name": "primary_yellow",
+      "value": "#FFFF00"
+    },
+    {
+      "name": "primary_green",
+      "value": "#32CD32"
+    },
+    {
+      "name": "primary_blue",
+      "value": "#4876FF"
+    },
+    {
+      "name": "primary_pink",
+      "value": "#FF69B4"
+    },
+    {
+      "name": "primary_white",
+      "value": "#FFFAFA"
+    },
+    {
+      "name": "primary_black",
+      "value": "#1F1F1F"
+    },
+    {
+      "name": "primary_golden",
+      "value": "#FFD700"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@fx/theme",
+  "version": "1.0.1",
+  "description": "一套支持动态切换、外观模式监听、自定义主题、扩展模板色的主题框架",
+  "keywords": [
+    "主题",
+    "theme",
+    "暗黑模式",
+    "dark"
+  ],
+  "main": "Index.ets",
+  "author": "Felix",
+  "homepage": "https://github.com/Feng3364",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
